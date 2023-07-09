@@ -1,0 +1,1 @@
+# gazelle:prefix github.com/datafy-id/go-stuff
